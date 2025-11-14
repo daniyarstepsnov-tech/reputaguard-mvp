@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportArgumentType": "warning",
+        "reportAttributeAccessIssue": "warning",
+        "reportCallIssue": "warning",
+        "reportOptionalMemberAccess": "warning"
+    }
+}
